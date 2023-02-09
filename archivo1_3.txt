@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Creo archivo en main
+=======
+Creo archivo en prueba3
+>>>>>>> prueba3
